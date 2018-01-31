@@ -1,0 +1,21 @@
+OpenCV for vision
+-Need take input (from front end), pass to backend for processing
+	-Track ceiling edges is easier than floor; use to make wall rectangles
+	-User guideline to include ceiling
+	-Allow user to give a hint on background/foreground
+	-Cheat method: ask for floor plans/dimensions
+-Then use information to start map
+
+Different Parts:
+-Taking Picture
+-Scaling
+-Putting parts in
+
+
+Test Rooms:
+-Armory
+-Empac?
+-First Floor West Hall (new performance space)
+-Play House
+-Or just empty rooms
+-Great Hall?
